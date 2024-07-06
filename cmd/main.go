@@ -11,7 +11,7 @@ import (
 	"text/template"
 	"time"
 
-	tz "github.com/abmpio/timezonex"
+	tz "github.com/shanluzhineng/timezonex"
 )
 
 const (
